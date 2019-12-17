@@ -8,8 +8,10 @@ img.profilepic {
     transform: rotate(90deg);
     float: left;
 }
-div.heading1 {
-    background: #ffffff;
-    border: #cccccc;
+header.theHeader {
+    background: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav.navigation {
+    float:right;
 }
