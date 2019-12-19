@@ -41,3 +41,6 @@ a:visited {
     text-decoration: none;
     color: #777777
 }
+p {
+    overflow: wrap;
+}
