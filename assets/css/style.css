@@ -27,4 +27,17 @@ li.navigation {
     display: inline-block;
     text-decoration: none;
     border-right: 1px solid #777777;
+    padding-right: 8px;
+    padding-left: 4px;
+}
+li.navigation:last-child {
+    border-right: none;
+}
+a:link {
+    text-decoration: none;
+    color: #777777;
+}
+a:visited {
+    text-decoration: none;
+    color: #777777
 }
