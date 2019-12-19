@@ -1,5 +1,8 @@
-body {
+div.myBox {
     width: 960px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid #777777;
 }
 /* Rotate the profile picture here please */
 img.profilepic {
@@ -21,7 +24,7 @@ h1.name {
     background: #4aaaa5;
     height: 70px;
     width: 250px;
-    margin: 0 0 0 50px;
+    margin: 0 50px 0 50px;
 }
 li.navigation {
     display: inline-block;
@@ -43,4 +46,10 @@ a:visited {
 }
 p {
     overflow: wrap;
+}
+h2.aboutMe {
+    border-bottom: 3px solid #777777;
+}
+body {
+    background-image: url(assets/images/greek-vase.png);
 }
