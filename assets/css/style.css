@@ -7,13 +7,24 @@ img.profilepic {
     width: 200px;
     transform: rotate(90deg);
     float: left;
+    margin: 0 auto;
 }
 header.theHeader {
-    background: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-nav.navigation {
-    float:right;
+ul.navigation { 
+    padding: 8px;
+    list-style: none;
+    float: right;
 }
 h1.name {
+    background: #4aaaa5;
+    height: 70px;
+    width: 250px;
+    margin: 0 0 0 50px;
+}
+li.navigation {
+    display: inline-block;
+    text-decoration: none;
+    border-right: 1px solid #777777;
 }
