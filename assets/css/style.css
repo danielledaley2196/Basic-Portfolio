@@ -4,6 +4,7 @@ div.myBox {
     margin: 0 auto;
     border: 1px solid #777777;
     background-color: #ffffff;
+    margin-top: 20px;
 }
 /* Rotate the profile picture here please */
 img.profilepic {
@@ -29,7 +30,9 @@ h1.name {
     background: #4aaaa5;
     height: 70px;
     width: 250px;
-    margin: 0 50px 0 50px;
+    margin: 0 40px 0 40px;
+    color: #ffffff;
+    padding-top: 5px;
 }
 li.navigation {
     display: inline-block;
