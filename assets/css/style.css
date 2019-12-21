@@ -1,3 +1,7 @@
+div.headBar {
+    width:960px;
+    margin: 0 auto;
+}
 div.myBox {
     width: 960px;
     padding: 20px;
@@ -17,7 +21,6 @@ img.profilepic {
 header.theHeader {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #ffffff;
-    width: 960px;
     margin: 0 auto;
     padding: 0;
 }
@@ -30,7 +33,7 @@ h1.name {
     background: #4aaaa5;
     height: 70px;
     width: 250px;
-    margin: 0 40px 0 40px;
+    margin: 0 0 0 -20px;
     color: #ffffff;
     padding-top: 5px;
 }
@@ -83,5 +86,10 @@ div.imagePort1 {
     margin: 0 50px 0 50px;
     text-align: center;
     color: #ffffff;
-    position: absolute;
+}
+footer.footBoard {
+    background-color: #666666;
+    height: 50px;
+    margin: 0 auto;
+    border-top: 4px solid #4aaaa5;
 }
