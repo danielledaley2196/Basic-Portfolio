@@ -51,5 +51,5 @@ h2.aboutMe {
     border-bottom: 3px solid #777777;
 }
 body {
-    background-image: url(assets/images/greek-vase.png);
+    background-image: url("../images/greek-vase.png");
 }
