@@ -3,6 +3,7 @@ div.myBox {
     padding: 20px;
     margin: 0 auto;
     border: 1px solid #777777;
+    background-color: white;
 }
 /* Rotate the profile picture here please */
 img.profilepic {
@@ -14,6 +15,10 @@ img.profilepic {
 }
 header.theHeader {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    width: 960px;
+    margin: 0 auto;
+    padding: 0;
 }
 ul.navigation { 
     padding: 8px;
@@ -49,7 +54,19 @@ p {
 }
 h2.aboutMe {
     border-bottom: 3px solid #777777;
+    padding-bottom: 20px;
+    color: #4aaaa5;
 }
 body {
     background-image: url("../images/greek-vase.png");
+}
+h2.portfolio {
+    border-bottom: 3px solid #777777;
+    padding-bottom: 20px;
+    color: #4aaaa5;
+}
+h2.contact {
+     border-bottom: 3px solid #777777;
+    padding-bottom: 20px;
+    color: #4aaaa5;
 }
