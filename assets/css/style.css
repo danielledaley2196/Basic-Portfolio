@@ -28,6 +28,7 @@ header.theHeader {
     background-color: #ffffff;
     margin: 0 auto;
     padding: 0;
+    border-bottom: 3px solid #777777;
 }
 ul.navigation { 
     padding: 8px;
@@ -128,10 +129,14 @@ footer.footBoard {
 }
 input {
     width: 100%;
+    margin-bottom: 20px;
 }
 input.contactMessage {
     height:300px;
 }
 input.submit {
-    
+    height: 30px;
+    width: 100px;
+    background-color: #4aaaa5;
+    color: #ffffff;
 }
