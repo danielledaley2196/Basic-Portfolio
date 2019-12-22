@@ -126,3 +126,12 @@ footer.footBoard {
     width: 100%;
     text-align: center;
 }
+input {
+    width: 100%;
+}
+input.contactMessage {
+    height:300px;
+}
+input.submit {
+    
+}
